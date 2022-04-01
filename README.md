@@ -1,4 +1,4 @@
-# Marble theme ⬜ for [Mutt]
+# Marble theme ⬜ for [Mutt](http://www.mutt.org/)
 
 ## Install
 
